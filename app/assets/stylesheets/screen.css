@@ -1,0 +1,5 @@
+body { padding: 5%; font-size: 100%; font: 1em/1.3em "Helvetica Neue", Helvetica, Arial, sans-serif; }
+
+a:link, a:visited { text-decoration: none; color: hotpink; }
+
+a:hover, a:active { color: green; border-bottom: 1px solid green; }
